@@ -6,4 +6,4 @@ about: Template tugas fitur kelompok
 - [ ] Deskripsikan fitur yang akan dibuat
 
 ## Penanggung Jawab
-- Nama Anggota:
+- Nama Anggota: bintang yanditya
