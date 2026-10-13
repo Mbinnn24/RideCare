@@ -7,4 +7,4 @@ about: Template tugas fitur kelompok
 
 ## Penanggung Jawab
 - Nama Anggota: bintang yanditya
-bayu 
+rijal
